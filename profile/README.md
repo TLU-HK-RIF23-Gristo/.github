@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+This is Gristo Jõesaar public repository
 
 **Here are some ideas to get you started:**
 
